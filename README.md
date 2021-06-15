@@ -1,4 +1,5 @@
-Note : all questions are compulsory
+Note : all questions are compulsory. 
+Type and execute your code and attach the code as well as the screenshot of the ouput in the answer folder..i.e you need to create a folder inside the answer folder.
 
                                 
 
