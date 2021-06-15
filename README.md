@@ -13,35 +13,50 @@ Objective Questions
 1.Basic methods of projection are _______ and ______
 
 (a) Parallel and perspective
+
 (b) Parallel and perceptive
+
 (c) Perceptive and perspective
+
 (d) None of the above
 
 2.	Equation for e in Brasenhams algorithm is.
 
 (a) e = dy/dx -1/2
+
 (b) e = 2dy –dx
+
 (c) e =dy-dx/2
+
 (d) e = dy-2dx
 
 3.	The characteristics of pixels on a given scan line change only where a polygon ______ scan line.
 
 (a) Intersects
+
 (b) Unions
+
 (c) Differences
+
 (d) All of the above
 
 4.	The object is held stationary while the coordinate system is moved relative to the object is called
 
 (a) Geometric Transformation
+
 (b) Coordinate transformation
+
 (c) Translation
+
 (d) Rotation
 
 5.	_______ give the color of specified pixel & _________ draws the pixel with specified color.
 
 a) get pixel(), put pixel()
+
 b) put pixel(), get pixel()
+
 c) Both a & b
+
 d) None of the above
 
