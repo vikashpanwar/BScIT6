@@ -1,0 +1,54 @@
+ #include<stdio.h>
+
+#include<graphics.h>
+
+#include <math.h>
+
+int main()
+
+intgd=0,gmx1.y1x2y2:
+
+double sc, angle=90;
+
+initgraph(&gd, &gm, "CA\TC\\BGI");
+
+setcolor(RED):
+
+printf("Enter coordinates of line: ");
+
+scanf("%d%d%d%d",&x1,8y1,8x2,8y2);
+
+cleardevice():
+
+setbkcolor(WHITE):
+
+line(x1.y1,x2y2);
+
+getch0:
+
+setbkcolor(BLACK);
+
+setbkcolor(WHITE);
+
+c= cos(angle 3.14/180);
+
+$= sin(angle "3.14/180):
+
+x1 = floor(x1c-y1 s);
+
+y1 floor(-x1s+y¹ "c:
+
+x2 = floor(x2 - y2 s);
+
+y2 = floor(-x2s+ y2 * c
+
+cleardevice):
+
+line(x1, y1,x2 y2);
+
+getchü
+
+closegraph():
+
+return 0
+}
